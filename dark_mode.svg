@@ -60,7 +60,7 @@ text, tspan { white-space: pre; }
 <text fill="#c9d1d9">
 <tspan x="432" y="30">mhammaddawudi -——————————————————————————————————————————-—-</tspan>
 <tspan x="432" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ................................ </tspan><tspan class="value">macOS, Linux, Android</tspan></tspan>
-<tspan x="432" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> ......................... </tspan><tspan class="value">1 year, 3 months, 7 days</tspan></tspan>
+<tspan x="432" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> ......................... </tspan><tspan class="value">1 year, 3 months, 8 days</tspan></tspan>
 <tspan x="432" y="90"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">Saqqez, Kurdistan</tspan></tspan>
 <tspan x="432" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">Full-stack Developer</tspan></tspan>
 <tspan x="432" y="130"><tspan class="dots">. </tspan><tspan class="key">Shell</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">Interface, server, database, deploy</tspan></tspan>
@@ -75,9 +75,9 @@ text, tspan { white-space: pre; }
 <tspan x="432" y="310"><tspan class="dots">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">@mhammaddawudi</tspan></tspan>
 <tspan x="432" y="330"></tspan>
 <tspan x="432" y="350">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
-<tspan x="432" y="370"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">2</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">2</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">3</tspan></tspan>
-<tspan x="432" y="390"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">40</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> .......... </tspan><tspan class="value">2</tspan></tspan>
-<tspan x="432" y="410"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">14,434</tspan> ( <tspan class="add">17,431++</tspan>, <tspan class="del">2,997--</tspan> )</tspan>
+<tspan x="432" y="370"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">2</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">2</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">4</tspan></tspan>
+<tspan x="432" y="390"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">41</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> .......... </tspan><tspan class="value">3</tspan></tspan>
+<tspan x="432" y="410"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">14,441</tspan> ( <tspan class="add">17,442++</tspan>, <tspan class="del">3,001--</tspan> )</tspan>
 <tspan x="432" y="430"></tspan>
 <tspan x="432" y="450"><tspan class="key">mhammaddawudi</tspan>:~$ <tspan class="cursor">█</tspan></tspan>
 </text>
